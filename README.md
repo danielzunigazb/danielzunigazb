@@ -40,11 +40,6 @@ Terminales sobre GUIs. Protocolos sobre frameworks. Evidencia sobre claims.
 
 `Python` `Bash` `SQL` · `FastAPI` `Typer` `Pytest` `uv` `Ruff` · `Arch Linux` `systemd` `Git` `GitHub Actions` `SSH`
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=danielzunigazb&show_icons=true&hide_title=true&count_private=true&theme=default&hide_border=true&bg_color=00000000" alt="danielzunigazb's GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielzunigazb&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" alt="top languages" height="165">
-</div>
-
 ---
 
 <div align="center">
