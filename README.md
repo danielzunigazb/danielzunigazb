@@ -48,5 +48,5 @@ Terminales sobre GUIs. Protocolos sobre frameworks. Evidencia sobre claims.
 ---
 
 <div align="center">
-<sub>Montelíbano, Córdoba, Colombia · <a href="https://danzuniga.xyz">danzuniga.xyz</a></sub>
+<sub>Córdoba, Colombia · <a href="https://danzuniga.xyz">danzuniga.xyz</a></sub>
 </div>
