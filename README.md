@@ -24,7 +24,7 @@ Terminales sobre GUIs. Protocolos sobre frameworks. Evidencia sobre claims.
 ### Ahora mismo
 
 - **[player](https://github.com/danielzunigazb/player)** — reproductor de música nativo para Android (Kotlin, Compose, Media3). Letras sincronizadas, terminal integrada, monitor web con cifrado de punta a punta (con la cola reordenable desde el navegador) y releases automáticos firmados. Va en la v1.6.1. [player.danzuniga.xyz](https://player.danzuniga.xyz)
-- **[gocraft](https://github.com/danielzunigazb/gocraft)** — cliente y servidor de Minecraft 1.8.9 escritos en Go.
+- **[gocraft](https://github.com/danielzunigazb/gocraft)** — reimplementación del cliente de Minecraft Java 1.8.9 (protocolo 47) en Go, con servidor compatible. OpenGL 3.3, mundos Anvil o servidores de terceros, sin recursos de Mojang (los lee del `client.jar` del usuario). Fidelidad con vanilla fijada con pruebas que reproducen paquetes contra el cliente.
 - **[editor](https://github.com/danielzunigazb/editor)** — editor de video no lineal (MLT + FFmpeg) manejado por un LLM vía servidor MCP, con app web de chat en Docker. 42 herramientas, 15 plantillas y suites de pruebas con hashes de píxeles.
 - **harness** — CLI que orquesta agentes de código (Claude Code headless) sobre repos reales: planea, ejecuta paso a paso y verifica cada paso con los tests, lint y build del propio repo. "El modelo dice que terminó" no cuenta como evidencia. TypeScript, TUI de tres paneles. Privado.
 - **zwm** — gestor de ventanas en mosaico para X11 escrito en Zig: árbol BSP, barra, panel, lanzador, música por Spotify Connect y bloqueo de pantalla con PAM. Privado.
