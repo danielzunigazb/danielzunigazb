@@ -33,8 +33,6 @@ Terminales sobre GUIs. Protocolos sobre frameworks. Evidencia sobre claims.
 
 - **[galaxy-vitals-bridge](https://github.com/danielzunigazb/galaxy-vitals-bridge)** — app Android que lee métricas de Samsung Health (Galaxy Fit3) y las publica en [danzuniga.xyz/status](https://danzuniga.xyz/status/). Las coordenadas nunca salen del teléfono.
 - **[fungi-discovery](https://github.com/danielzunigazb/fungi-discovery)** — pipeline reproducible de identificación taxonómica (ITS) para hongos. Typer + BioPython + BLAST/VSEARCH, cobertura ≥85%, CI en GitHub Actions.
-- **[systemd-hooks](https://github.com/danielzunigazb/systemd-hooks)** — framework mínimo (stdlib puro) para correr scripts Python como servicios systemd user, con logging JSONL y paths XDG-compliant.
-- **cognitive-core (blini)** — 7 servicios systemd orquestando automatización personal: monitoreo, captura de contexto, sugerencias. Privado.
 
 ### Cómo trabajo
 
